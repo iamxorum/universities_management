@@ -1,0 +1,46 @@
+9653,Universitatea Titu Maiorescu,Privat
+5937,Academia de Studii Economice,Stat
+2563,Universitatea Politehnica Bucuresti,Stat
+4789,Universitatea din Bucuresti,Stat
+3652,Universitatea Alexandru Ioan Cuza Iasi,Stat
+7392,Universitatea Babes-Bolyai Cluj-Napoca,Stat
+6572,Universitatea Petru Maior Targu Mures,Privat
+7593,Universitatea de Vest Timisoara,Stat
+2457,Universitatea Lucian Blaga Sibiu,Privat
+1324,Universitatea din Oradea,Stat
+7485,Universitatea de Nord Bacau,Stat
+4896,Universitatea de Vest din Vaslui,Privat
+7412,Universitatea Alexandru Ioan Cuza din Iasi,Stat
+5623,Universitatea Ovidius Constanta,Stat
+9867,Universitatea Maritima Constanta,Privat
+6745,Universitatea de Arte din Timisoara,Stat
+2345,Universitatea din Craiova,Stat
+844,Universitatea din Pitesti,Privat
+7698,Universitatea de Medicina si Farmacie Victor Babes Timisoara,Stat
+4567,Universitatea Spiru Haret Bucuresti,Privat
+3851,Universitatea de Stiinte Agricole si Medicina Veterinara Cluj-Napoca,Stat
+5867,Universitatea din Suceava,Privat
+6793,Universitatea Tehnica din Cluj-Napoca,Stat
+3478,Universitatea din Bacau,Stat
+1234,Universitatea de Arte din Targu Mures,Privat
+9876,Universite Paris-Sorbonne,State
+6788,Universite Pierre et Marie Curie,State
+1238,Universitat Heidelberg,State
+9835,Universita degli Studi di Milano,State
+6713,Universidad de Salamanca,State
+1239,KU Leuven,State
+6791,Universita di Bologna,State
+1231,Eberhard Karls Universitat Tuebingen,State
+6790,Universite Paris-Saclay,State
+1235,Universitat zu Koln,State
+6792,Universita degli Studi di Firenze,State
+1236,Universite catholique de Louvain,State
+4491,Universite de Geneve,State
+1237,Universitat Freiburg,State
+6794,Universite Paris Descartes,State
+2498,Universitat de Barcelona,State
+6795,Universitat Hamburg,State
+5574,Universitat Muenster,State
+6796,Universite Grenoble Alpes,State
+1240,Universitat Wuerzburg,State
+6797,Universite de Lausanne,State

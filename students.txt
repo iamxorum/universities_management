@@ -1,0 +1,80 @@
+Universitatea Titu Maiorescu,Facultatea de Informatica,Razvan,Ionescu,1,3412,1200,800
+Universitatea Titu Maiorescu,Facultatea de Informatica,Bogdan,Ionescu,2,4567,2400,1200
+Universitatea Titu Maiorescu,Facultatea de Informatica,Ciprian,Popescu,5,6789,2600,1500
+Universitatea Titu Maiorescu,Facultatea de Informatica,Ana,Marinescu,6,1234,2300,1700
+Universitatea Titu Maiorescu,Facultatea de Informatica,Raluca,Dumitrescu,8,9876,2500,1400
+Universitatea Titu Maiorescu,Facultatea de Informatica,Vlad,Iliescu,7,2345,2200,1000
+Universitatea Titu Maiorescu,Facultatea de Informatica,Mihai,Petrescu,4,6789,2600,1600
+Universitatea Titu Maiorescu,Facultatea de Informatica,Elena,Gheorghe,1,1234,2300,1200
+Universitatea Titu Maiorescu,Facultatea de Informatica,Adriana,Popa,6,9876,2400,1300
+Universitatea Titu Maiorescu,Facultatea de Informatica,Ioana,Ionescu,2,2345,2100,1000
+Universitatea Titu Maiorescu,Facultatea de Informatica,Razvan,Marinescu,5,6789,2500,1500
+Universitatea Titu Maiorescu,Facultatea de Informatica,Andreea,Petrescu,7,1234,2400,1200
+Universitatea Titu Maiorescu,Facultatea de Informatica,Marius,Popescu,8,9876,2600,1600
+Universitatea Titu Maiorescu,Facultatea de Informatica,Alina,Iliescu,4,2345,2200,1100
+Universitatea Titu Maiorescu,Facultatea de Informatica,Andrei,Ionescu,1,2345,3000,1200
+Universitatea Titu Maiorescu,Facultatea de Informatica,Marta,Lukic,7,5555,6666,2546
+Universitatea Titu Maiorescu,Facultatea de Informatica,Carla,Bobocea,2,695,1230,700
+Universitatea Titu Maiorescu,Facultatea de Psihologie,Raluca,Petrescu,3,1234,2600,900
+Universitatea Titu Maiorescu,Facultatea de Stiinte Politice,Maria,Gheorghe,5,6789,2400,1000
+Universitatea Titu Maiorescu,Facultatea de Filosofie,Irina,Iliescu,8,9876,2800,1100
+Universitatea Titu Maiorescu,Facultatea de Inginerie Chimica,Vlad,Popescu,6,1234,2600,1200
+Universitatea Titu Maiorescu,Facultatea de Teologie,Ana,Marin,2,6789,2500,1400
+Universitatea Titu Maiorescu,Facultatea de Drept,Ioana,Ionescu,3,1234,2700,1300
+Academia de Studii Economice,Facultatea de Economie,Maria,Ionescu,7,5678,2000,900
+Academia de Studii Economice,Facultatea de Economie,Cristian,Popescu,6,6478,2000,700
+Universitatea Politehnica Bucuresti,Facultatea de Inginerie,Ioan,Vasilescu,5,9123,1200,1500
+Universitatea Politehnica Bucuresti,Facultatea de Inginerie,Ion,Ionescu,8,6978,2100,900
+Universitatea din Bucuresti,Facultatea de Litere,Ana,Marin,4,4567,900,2000
+Universitatea din Bucuresti,Facultatea de Litere,Paula,Popescu,7,2365,2400,1500
+Universitatea Alexandru Ioan Cuza Iasi,Facultatea de Chimie,Marius,Ilie,2,7890,1500,1500
+Universitatea Alexandru Ioan Cuza Iasi,Facultatea de Chimie,Oana,Marin,5,2457,1800,1200
+Universitatea Babes-Bolyai Cluj-Napoca,Facultatea de Matematica,Elena,Dumitrescu,8,2345,1100,2000
+Universitatea Babes-Bolyai Cluj-Napoca,Facultatea de Matematica,Andrei,Ilie,1,1234,2000,1100
+Universitatea Petru Maior Targu Mures,Facultatea de Psihologie,Florin,Popescu,7,3456,900,2000
+Universitatea Petru Maior Targu Mures,Facultatea de Psihologie,Roxana,Vasilescu,4,4567,1500,900
+Universitatea Petru Maior Targu Mures,Facultatea de Psihologie,Ionut,Gheorghe,3,5647,2300,1000
+Universitatea de Vest Timisoara,Facultatea de Stiinte Politice,Diana,Ionescu,5,6789,1400,2000
+Universitatea de Vest Timisoara,Facultatea de Stiinte Politice,Adrian,Popescu,8,1234,1700,1000
+Universitatea de Vest Timisoara,Facultatea de Stiinte Politice,Cristian,Popa,2,2457,2500,1500
+Universitatea Lucian Blaga Sibiu,Facultatea de Filosofie,Razvan,Marinescu,1,7891,800,2000
+Universitatea Lucian Blaga Sibiu,Facultatea de Filosofie,Maria,Ionescu,2,8765,1100,800
+Universitatea Lucian Blaga Sibiu,Facultatea de Filosofie,Adriana,Muresan,7,9876,2600,1200
+Universitatea din Oradea,Facultatea de Inginerie Chimica,Ioana,Dumitrescu,4,1234,1700,1500
+Universitatea din Oradea,Facultatea de Inginerie Chimica,Ionut,Popescu,8,2468,2500,1600
+Universitatea din Oradea,Facultatea de Inginerie Chimica,Razvan,Ionescu,3,1234,2400,1300
+Universitatea de Nord Bacau,Facultatea de Teologie,Daniel,Popescu,1,5678,1300,2000
+Universitatea de Nord Bacau,Facultatea de Teologie,Irina,Ilie,2,1234,2000,1100
+Universitatea de Nord Bacau,Facultatea de Teologie,Ioana,Dumitrescu,5,4567,2600,1100
+Universitatea de Vest din Vaslui,Facultatea de Jurnalism,Andreea,Marinescu,6,9123,1000,1500
+Universitatea de Vest din Vaslui,Facultatea de Jurnalism,Alexandru,Marin,4,2357,1200,900
+Universitatea de Vest din Vaslui,Facultatea de Jurnalism,Alin,Popescu,7,1235,2200,900
+Universitatea Alexandru Ioan Cuza din Iasi,Facultatea de Drept,Paul,Ionescu,2,4567,1500,2000
+Universitatea Alexandru Ioan Cuza din Iasi,Facultatea de Drept,Ana,Vasilescu,1,1234,1600,1000
+Universitatea Alexandru Ioan Cuza din Iasi,Facultatea de Drept,Maria,Petrescu,5,2345,2400,1400
+Universitatea Ovidius Constanta,Facultatea de Stiinte ale Naturii,Adriana,Popescu,3,7890,1200,1500
+Universitatea Ovidius Constanta,Facultatea de Stiinte ale Naturii,Marius,Ionescu,4,5678,2200,1400
+Universitatea Ovidius Constanta,Facultatea de Stiinte ale Naturii,Vlad,Ilie,6,6789,2300,1500
+Universitatea Maritima Constanta,Facultatea de Transporturi Maritime,Mihai,Marinescu,5,2345,2000,2000
+Universitatea Maritima Constanta,Facultatea de Transporturi Maritime,Raluca,Popescu,2,4567,2300,1600
+Universitatea Maritima Constanta,Facultatea de Transporturi Maritime,Irina,Popa,7,9876,2600,1700
+Universitatea de Arte din Timisoara,Facultatea de Arte Plastice,Luminita,Ionescu,2,3456,1200,1500
+Universitatea de Arte din Timisoara,Facultatea de Arte Plastice,Diana,Ilie,6,1234,1100,1000
+Universitatea de Arte din Timisoara,Facultatea de Arte Plastice,Mihai,Vasilescu,7,1234,2000,900
+Universitatea din Craiova,Facultatea de Inginerie Mecanica,Raluca,Popescu,1,6789,1600,1500
+Universitatea din Craiova,Facultatea de Inginerie Mecanica,Alex,Ionescu,5,1234,2400,1500
+Universitatea din Craiova,Facultatea de Inginerie Mecanica,Raluca,Ionescu,4,6789,2500,1500
+Universitatea din Pitesti,Facultatea de Stiinte Politice,Alexandru,Ionescu,3,7891,1400,2000
+Universitatea din Pitesti,Facultatea de Stiinte Politice,Carmen,Popescu,7,5678,1600,1100
+Universitatea din Pitesti,Facultatea de Stiinte Politice,Elena,Popescu,1,2345,2400,1300
+Universitatea de Medicina si Farmacie Victor Babes Timisoara,Facultatea de Medicina,Ioana,Marinescu,8,1234,2200,1500
+Universitatea de Medicina si Farmacie Victor Babes Timisoara,Facultatea de Medicina,Mihai,Ilie,2,6789,2400,1900
+Universitatea de Medicina si Farmacie Victor Babes Timisoara,Facultatea de Medicina,Andrei,Gheorghe,5,6789,2800,2000
+Universitatea Spiru Haret Bucuresti,Facultatea de Contabilitate,Ioana,Marin,6,1234,1700,1300
+Universitatea Spiru Haret Bucuresti,Facultatea de Contabilitate,Adriana,Petrescu,3,1234,2000,900
+Universitatea de Stiinte Agricole si Medicina Veterinara Cluj-Napoca,Facultatea de Agricultura,Ioana,Iliescu,5,6789,2500,1600
+Universitatea din Suceava,Facultatea de Teologie,Vlad,Popescu,7,1234,2300,1300
+Universitatea Tehnica din Cluj-Napoca,Facultatea de Inginerie Electrica,Mihai,Ionescu,1,6789,2400,1400
+Universitatea din Bacau,Facultatea de Litere,Ana,Marin,8,9876,2000,900
+Universitatea de Arte din Targu Mures,Facultatea de Teatru,Elena,Popescu,4,1234,2200,1100
+Universitatea de Arte din Targu Mures,Facultatea de Teatru,Ramona,Bucur,3,4569,15,2

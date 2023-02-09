@@ -1,0 +1,35 @@
+Universitatea Titu Maiorescu,9653,Facultatea de Informatica,3,2,3,1500,DA
+Universitatea Titu Maiorescu,1873,Facultatea de Psihologie,3,2,3,1500,DA
+Universitatea Titu Maiorescu,637,Facultatea de Stiinte Politice,3,2,3,1500,DA
+Universitatea Titu Maiorescu,5197,Facultatea de Filosofie,3,2,3,1500,DA
+Universitatea Titu Maiorescu,9365,Facultatea de Inginerie Chimica,3,2,3,1500,DA
+Universitatea Titu Maiorescu,5555,Facultatea de Teologie,3,2,3,1500,DA
+Universitatea Titu Maiorescu,120,Facultatea de Drept,3,2,3,1500,DA
+Universitatea Titu Maiorescu,8081,Facultatea de Economie,3,2,3,1500,DA
+Universitatea Titu Maiorescu,298,Facultatea de Limbi Straine,3,2,3,1500,DA
+Academia de Studii Economice,7845,Facultatea de Economie,3,2,1,2000,NU
+Universitatea Politehnica Bucuresti,2563,Facultatea de Inginerie,4,2,3,1200,DA
+Universitatea din Bucuresti,4789,Facultatea de Litere,3,2,1,900,NU
+Universitatea Alexandru Ioan Cuza Iasi,3652,Facultatea de Chimie,3,2,2,1500,DA
+Universitatea Babes-Bolyai Cluj-Napoca,7392,Facultatea de Matematica,3,2,2,1100,NU
+Universitatea Petru Maior Targu Mures,6572,Facultatea de Psihologie,3,2,2,900,NU
+Universitatea de Vest Timisoara,7593,Facultatea de Stiinte Politice,3,2,1,1400,DA
+Universitatea Lucian Blaga Sibiu,2457,Facultatea de Filosofie,3,2,1,800,NU
+Universitatea din Oradea,1324,Facultatea de Inginerie Chimica,4,2,3,1700,DA
+Universitatea de Nord Bacau,7485,Facultatea de Teologie,3,2,2,1300,NU
+Universitatea de Vest din Vaslui,4896,Facultatea de Jurnalism,3,2,1,1000,NU
+Universitatea Alexandru Ioan Cuza din Iasi,7412,Facultatea de Drept,3,2,2,1500,DA
+Universitatea Ovidius Constanta,5623,Facultatea de Stiinte ale Naturii,3,2,3,1200,NU
+Universitatea Maritima Constanta,9867,Facultatea de Transporturi Maritime,4,2,3,2000,DA
+Universitatea de Arte din Timisoara,6745,Facultatea de Arte Plastice,3,2,1,1200,NU
+Universitatea din Craiova,2345,Facultatea de Inginerie Mecanica,4,2,3,1600,DA
+Universitatea din Pitesti,7,Facultatea de Stiinte Politice,3,2,1,1400,NU
+Universitatea de Medicina si Farmacie Victor Babes Timisoara,7698,Facultatea de Medicina,5,2,3,2200,DA
+Universitatea Spiru Haret Bucuresti,4567,Facultatea de Contabilitate,3,2,1,1000,NU
+Universitatea de Stiinte Agricole si Medicina Veterinara Cluj-Napoca,�,Facultatea de Agricultura,4,2,3,1800,DA
+Universitatea din Suceava,5867,Facultatea de Teologie,3,2,2,1300,NU
+Universitatea Tehnica din Cluj-Napoca,6793,Facultatea de Inginerie Electrica,4,2,3,1600,DA
+Universitatea din Bacau,3478,Facultatea de Litere,3,2,1,900,NU
+Universitatea de Arte din Targu Mures,1234,Facultatea de Teatru,3,2,1,1100,NU
+Universite Grenoble Alpes,9999,Faculty of Economics,3,2,0,1500,NU
+Universite de Lausanne,8645,Faculty of Computer Science,3,2,2,3000,DA
